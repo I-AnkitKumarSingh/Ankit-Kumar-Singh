@@ -19,3 +19,19 @@ To create a pull request for a public git repo, you need to follow these steps:
 -   Create a pull request from your forked repo to the original repo. You can do this by going to your forked repo on GitHub and clicking the **Compare & pull request** button. This will open a page where you can review your changes and add a title and a description for your pull request. You can also link your pull request to an issue if there is one related to your changes. Then click **Create pull request** to submit it.
 
 That's it! You have created a pull request for a public git repo. Now you need to wait for the maintainers of the original repo to review and merge your pull request. They might also ask you for some feedback or changes before merging it. You can communicate with them through the comments section of your pull request.
+
+Real time voice transcription web application:
+Transcribing in real-time is a super skill only court reporters can brag about. But luckily, we don’t need to learn how to type fast to get transcriptions of audio quickly.Here with the help of javascript by integrating the code into a HTML script, I created a web application which can easily listen for audio and turn it to text.
+👍 If you’d like to use this code (set-up):
+-Download the zip file.
+-Extract the file in your folder.
+-And, open it in your vscode or any other IDE.
+-Install live server.
+
+👍 Steps to use the voice transcriber after setting up the environment:
+-Go live with the HTML script.
+-You can see a microphone icon.
+-Press the microphone and give permission to microphone to record.
+-Woohoo, You are now ready to with your voice transcriber.
+
+Now by pressing the microphone you can speak whatever you want to transcribe, and it will be transcripted in the textarea above the microphone icon.
